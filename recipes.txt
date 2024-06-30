@@ -1,0 +1,40 @@
+Recipe: Cinnamon Toast
+Ingredients:
+- 2 tablespoons sugar
+- Ground cinnamon
+- 4 slices white bread
+- Unsalted butter, room temperature
+Link: http://www.edamam.com/ontologies/edamam.owl#recipe_5666f9632095173bed2d7eee8d7e9731
+Source: Martha Stewart
+Calories: 429.38
+Total Weight: 143.34 grams
+Total Time: 0.0 minutes
+
+Recipe: Cinnamon Raisin Twists Recipe
+Ingredients:
+- 14 ounces all-butter puff pastry, defrosted
+- 1/2 cup sugar
+- 1/2 tablespoon cinnamon
+- 1 cup raisins
+- 3 tablespoons butter, melted
+Link: http://www.edamam.com/ontologies/edamam.owl#recipe_25ae198119e6dd4da50ab6b8aa6d09e6
+Source: Serious Eats
+Calories: 3322.51
+Total Weight: 688.39 grams
+Total Time: 45.0 minutes
+
+Recipe: Sparkling Apple Sherry Cocktail Recipe
+Ingredients:
+- 1/4 apple, cored and diced
+- 1 1/2 ounces apple brandy, such as Laird’s Bonded Apple Brandy
+- 3/4 ounce Mandarine Napoléon liqueur
+- 1/2 ounce oloroso sherry, such as Williams & Humbert
+- 4 ounces prosecco sparkling wine
+- Orange twist, for garnish
+- Thinly sliced apple, for garnish
+Link: http://www.edamam.com/ontologies/edamam.owl#recipe_30ab154a779c93af42868f547733b510
+Source: Serious Eats
+Calories: 307.86
+Total Weight: 236.86 grams
+Total Time: 5.0 minutes
+
